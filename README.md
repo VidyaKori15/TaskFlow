@@ -3,7 +3,7 @@
 TaskFlow is a modern, professional Task Management web application designed to help users organize their daily workflow efficiently. It features a clean SaaS-style dashboard, Kanban board, and productivity analytics.
 
 ## 🚀 Live Demo
-[View TaskFlow Live](https://VidyaKori15.github.io/TaskFlow/) 
+[View TaskFlow Live](https://vidyakori15.github.io/TaskFlow/) 
 
 
 ## ✨ Key Features
