@@ -19,3 +19,10 @@ TaskFlow is a modern, professional Task Management web application designed to h
 - **Framework:** Bootstrap 5
 - **Icons:** Font Awesome 6
 - **Storage:** Browser LocalStorage API
+
+## Internship Details 
+Internship: Web Development 
+Internship Organization: SkillCraft Technology 
+Task: Task 4 – TO DO WEB APP
+
+⭐ If you like this project, feel free to star the repository!
